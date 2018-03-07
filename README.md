@@ -5,8 +5,8 @@ Différentes ressources et supports utilisés lors de nos ateliers d'initiation 
 
 ## Contenu
 
-  * Débutant·es: [des notes sur les bases en Python](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/cheatsheet.md)
-  * Intermédiaires: [des exemples pour montrer les concepts de base](https://github.com/djangogirlsbdx/ressources-et-supports/tree/master/exemples/)
+  * Notions de base: [des notes sur les bases en Python](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/cheatsheet.md)
+  * Exos pour débuter: [des exemples pour montrer les concepts de base](https://github.com/djangogirlsbdx/ressources-et-supports/tree/master/exemples/)
 
 
 ## Aller plus loin
