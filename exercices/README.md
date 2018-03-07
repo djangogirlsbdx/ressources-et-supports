@@ -8,6 +8,7 @@ Nous les avons rangé par difficulté, mais au sein d'une section, ils peuvent �
 ## Débutante
 
   * [année bissextile](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/annee_bissextile.md)
+  * [adn, arn](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/adn_arn.md)
 
 
 ## Intermédiaire
