@@ -23,4 +23,4 @@ Nous les avons rangé par difficulté, mais au sein d'une section, ils peuvent �
 ## Expérimentée
 
   * [factorielle](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/factorielle.md)
-  * [etendu](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/etendu.md)
+  * [etendue](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/etendue.md)
