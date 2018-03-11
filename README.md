@@ -5,7 +5,7 @@ Différentes ressources et supports utilisés lors de nos ateliers d'initiation 
 
 ## Contenu
 
-  * Notions : [des notes sur les bases en Python](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/cheatsheet.md) .
+  * Notions : [des notes sur les bases en Python](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/reference.md) .
   * Apprendre : [des exemples pour montrer les concepts de base](https://github.com/djangogirlsbdx/ressources-et-supports/tree/master/exemples/) .
   * S'entrainer : [des exercices](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/README.md) .
 
@@ -23,3 +23,15 @@ Ces sites proposent des exercices de programmation sous forme de petits challeng
   * [code wars](https://www.codewars.com/)
   * [hacker rank](https://www.hackerrank.com/)
   * [exercism.io](http://exercism.io/)
+
+## Encore plus d'exos en ligne ! (Aucun compte à créer)
+
+  * [Practice Python](http://www.practicepython.org/)
+  * [W3Resource](https://www.w3resource.com/python-exercises/)
+  * [Snakify](https://snakify.org/)
+  * [Learn Python](http://www.learnpython.org/fr/)
+  * [Interactive Python](http://interactivepython.org/runestone/static/thinkcspy/index.html)
+  
+  
+  
+
