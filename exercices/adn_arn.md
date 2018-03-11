@@ -7,10 +7,10 @@ Les nucléotides qui forment une séquence d'ADN sont : Adénine (A), Cytosine (
 Les nucléotides qui forment une séquence d'ARN sont : Adénine (A), Cytosine (C), Guanine (G) et Uracile (U).
 
 Étant donné une séquence ADN, la séquence ARN correspondante est formée en remplaçant chaque nucléotide par son complément :
-* G -> C
-* C -> G
-* T -> A
-* A -> U
+  * G -> C
+  * C -> G
+  * T -> A
+  * A -> U
 
 ```python
 > adn_to_arn('C')
@@ -23,4 +23,4 @@ A
 U
 > adn_to_arn('ACGTGGTCTTAA')
 UGCACCAGAAUU
-          ```
+```
