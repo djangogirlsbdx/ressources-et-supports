@@ -24,7 +24,7 @@ Ces sites proposent des exercices de programmation sous forme de petits challeng
   * [hacker rank](https://www.hackerrank.com/)
   * [exercism.io](http://exercism.io/)
 
-## Encore plus d'exos en ligne !
+## Encore plus d'exos en ligne ! (Aucun compte à créer)
 
   * [Practice Python](http://www.practicepython.org/)
   * [W3Resource](https://www.w3resource.com/python-exercises/)
