@@ -23,3 +23,15 @@ Ces sites proposent des exercices de programmation sous forme de petits challeng
   * [code wars](https://www.codewars.com/)
   * [hacker rank](https://www.hackerrank.com/)
   * [exercism.io](http://exercism.io/)
+
+## Encore plus d'exos en ligne !
+
+  * [Practice Python](http://www.practicepython.org/)
+  * [W3Resource](https://www.w3resource.com/python-exercises/)
+  * [Snakify](https://snakify.org/)
+  * [Learn Python](http://www.learnpython.org/fr/)
+  * [Interactive Python](http://interactivepython.org/runestone/static/thinkcspy/index.html)
+  
+  
+  
+
