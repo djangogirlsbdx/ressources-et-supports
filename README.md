@@ -7,7 +7,7 @@ Différentes ressources et supports utilisés lors de nos ateliers d'initiation 
 
   * Notions : [des notes sur les bases en Python](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/cheatsheet.md) .
   * Apprendre : [des exemples pour montrer les concepts de base](https://github.com/djangogirlsbdx/ressources-et-supports/tree/master/exemples/) .
-  * S'entrainer : [exercices](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/README.md) .
+  * S'entrainer : [des exercices](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/README.md) .
 
 ## Aller plus loin
 
