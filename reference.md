@@ -25,7 +25,7 @@ addition(1, 3)
 # ou appel utilisant des variables
 premier_nombre = 1
 deuxieme_nombre = 2
-addition(1, 2)
+addition(premier_nombre, deuxieme_nombre)
 ```
 
 
