@@ -29,6 +29,21 @@ addition(premier_nombre, deuxieme_nombre)
 ```
 
 
+## Conditions
+
+```python
+# exemple de comparaison avec un entier
+if a >= 2:
+  print("a est plus grand ou égal à 2")
+else:
+  print("a est strictement plus petit que 2")
+
+# exemple de comparaison avec des chaines de caractères
+if fruit == "poire" or fruit == "pomme":
+  print("le fruit est une poire ou une pomme")
+```
+
+
 ## Boucles
 
 ```python
