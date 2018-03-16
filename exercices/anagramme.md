@@ -13,6 +13,11 @@ False
 ```
 
 
+## Indices
+
+On pourra s'aider de la fonction [sorted](https://docs.python.org/3.5/library/functions.html#sorted).
+
+
 ## Version avancée
 
 Les chaines de caractères peuvent contenir des espaces, des [diacritiques](https://fr.wikipedia.org/wiki/Diacritique), des majuscules, etc. dont on ne tiendra pas compte.

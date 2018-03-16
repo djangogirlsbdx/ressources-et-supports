@@ -7,7 +7,6 @@ Nous les avons rangé par difficulté, mais au sein d'une section, ils peuvent �
 
 ## Débutante
 
-  * [anagramme](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/anagramme.md)
   * [année bissextile](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/annee_bissextile.md)
   * [adn, arn](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/adn_arn.md)
   * [fizzbuzz](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/fizzbuzz.md)
@@ -16,6 +15,7 @@ Nous les avons rangé par difficulté, mais au sein d'une section, ils peuvent �
 
 ## Intermédiaire
 
+  * [anagramme](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/anagramme.md)
   * [occurences](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/occurences.md)
 
 
