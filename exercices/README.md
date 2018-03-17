@@ -19,7 +19,6 @@ Nous les avons rangé par difficulté, mais au sein d'une section, ils peuvent �
   * [occurences](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/occurences.md)
 
 
-
 ## Expérimentée
 
   * [factorielle](https://github.com/djangogirlsbdx/ressources-et-supports/blob/master/exercices/factorielle.md)
