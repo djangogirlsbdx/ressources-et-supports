@@ -16,7 +16,7 @@ Pour calculer une moyenne, nous allons :
 ```python
 somme = 0
 for note in notes:
-  somme += note
+    somme += note
 ```
 
 
@@ -32,12 +32,12 @@ somme / nombre_de_notes
 
 ```python
 def moyenne(notes):
-  somme = 0
-  for note in notes:
-    somme += note
+    somme = 0
+    for note in notes:
+        somme += note
 
-  nombre_de_notes = len(notes)
-  return somme / nombre_de_notes
+    nombre_de_notes = len(notes)
+    return somme / nombre_de_notes
 ```
 
 ## Utilisation

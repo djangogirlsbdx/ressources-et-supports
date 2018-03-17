@@ -17,7 +17,7 @@ c = [ 1, 2, 3 ]
 ```python
 # déclaration
 def addition(a, b):
-  return a + b
+    return a + b
 
 # appel "direct"
 addition(1, 3)
@@ -34,13 +34,13 @@ addition(premier_nombre, deuxieme_nombre)
 ```python
 # exemple de comparaison avec un entier
 if a >= 2:
-  print("a est plus grand ou égal à 2")
+    print("a est plus grand ou égal à 2")
 else:
-  print("a est strictement plus petit que 2")
+    print("a est strictement plus petit que 2")
 
 # exemple de comparaison avec des chaines de caractères
 if fruit == "poire" or fruit == "pomme":
-  print("le fruit est une poire ou une pomme")
+    print("le fruit est une poire ou une pomme")
 ```
 
 
@@ -49,13 +49,13 @@ if fruit == "poire" or fruit == "pomme":
 ```python
 # for (pour)
 for i in range(10):
-  print(i)
+    print(i)
 
 # while (tant que)
 i = 0
 while i < 10:
-  print(i)
-  i += 1
+    print(i)
+    i += 1
 ```
 
 
@@ -65,7 +65,7 @@ while i < 10:
 fruits = [ "pomme", "abricot", "poire", "banane" ]
 
 for fruit in fruits:
-  print(fruit)
+    print(fruit)
 
 # accès à un élément par son index
 fruit = fruits[0]
