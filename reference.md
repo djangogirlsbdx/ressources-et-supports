@@ -78,3 +78,13 @@ fruit = fruits[0]
 annuaire = { 'Rose': 0611, 'Iris': 0612, 'Lila': 0613 }
 numero = annuaire['rose']
 ```
+
+
+## Chaines de caractères
+
+```python
+# peuvent être considérées comme des listes de lettres
+phrase = "Je suis une phrase !"
+for caractere in phrase:
+    print(caractere)
+```
